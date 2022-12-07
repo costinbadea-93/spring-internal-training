@@ -1,0 +1,4 @@
+2022-11-28T18:45:07.367763900: Calling saveBankAccount with arguments: BankAccount{accountNumber='000000A502C5', name='lalallalala', accountType='lalalala', balance=10000, currency='$'}
+2022-11-28T18:45:07.368763300: Calling saveBankAccount with arguments: BankAccount{accountNumber='000000A502C5', name='lalallalala', accountType='lalalala', balance=10000, currency='$'}
+2022-12-05T21:05:04.461787700: Calling saveBankAccount with arguments: BankAccount{accountNumber='000000A502C5', name='lalallalala', accountType='lalalala', balance=10000, currency='$'}
+2022-12-05T21:05:04.461787700: Calling saveBankAccount with arguments: BankAccount{accountNumber='000000A502C5', name='lalallalala', accountType='lalalala', balance=10000, currency='$'}
